@@ -1,0 +1,21 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and environment
+*.log
+bot.log
+.env
+*.env
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Models or large/generated data
+.models/
